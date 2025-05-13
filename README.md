@@ -28,25 +28,3 @@ Non-functional Sections
 Database integration for form submissions
 User authentication system for admin access
 Blog post creation/editing interface
-
-
-ppoc-website/
-├── templates/
-│   ├── index.html       # Homepage
-│   ├── about-us.html      
-│   ├── contact.html    
-│   ├── events.html   
-│   ├── feedbacks.html
-│   └── thankyou.html
-|
-|
-|
-├── static/
-│   ├── css/
-│   ├── js/
-|   ├── plugins/
-│   └── images/
-├── app.py              # Main application file
-
-
-
