@@ -10,8 +10,10 @@ The Public Policy and Opinion Cell (PPOC) website is a Flask-based web applicati
 6. Main header with tabs (Home, Initiatives, Blogs, Contact)
 
 # Currently functional sections:
-1. Home (default landing page)
-2. Contact (with operational form)
+1. Home 
+2. Contact 
+3. Events
+4. About Us
 
 # Technical Components
 1. Python Flask backend
