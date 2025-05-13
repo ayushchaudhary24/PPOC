@@ -21,8 +21,8 @@ The Public Policy and Opinion Cell (PPOC) website is a Flask-based web applicati
 
 # Known Issues
 Non-functional Sections
-1. Initiatives tab: Placeholder page needs content integration
-2. Blogs tab: Requires blog post management system implementation
+1. Initiatives tab
+2. Blogs tab
 
 # Pending Enhancements
 Database integration for form submissions
