@@ -24,7 +24,3 @@ Non-functional Sections
 1. Initiatives tab
 2. Blogs tab
 
-# Pending Enhancements
-Database integration for form submissions
-User authentication system for admin access
-Blog post creation/editing interface
